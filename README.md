@@ -15,3 +15,5 @@ Download the dataset’s csv file from the link: https://catalog.data.gov/datase
 4. Comparison of model performance
 5. Model Evaluation
 6. Prediction
+
+**Detailed description of the procedure is given in ipynb file itself**
