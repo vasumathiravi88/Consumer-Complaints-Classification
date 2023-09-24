@@ -8,3 +8,10 @@ Consumer complaint categorization relies on Natural Language Processing and Mult
 # Dataset 
 Download the dataset’s csv file from the link: https://catalog.data.gov/dataset/consumer-complaint-database.
 
+# Steps followed in this project
+1. Explanatory Data Analysis and Feature Engineering
+2. Text Pre-Processing
+3. Selection of Multi Classification model
+4. Comparison of model performance
+5. Model Evaluation
+6. Prediction
